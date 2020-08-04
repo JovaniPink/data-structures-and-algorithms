@@ -1,2 +1,3 @@
-# getting-blitzed
-What are your favorite spirits and cocktails?
+# Getting Blitzed
+
+> What are your favorite spirits and cocktails?
