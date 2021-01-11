@@ -1,3 +1,9 @@
-# Getting Blitzed
+# Data Structures & Algorithms in JavaScript
 
-> What are your favorite spirits and cocktails?
+> Working through my knowledge in Data Structures & Algorithms while using JavaScript
+
+## Introduction
+
+## Data Structures
+
+## Algorithms
