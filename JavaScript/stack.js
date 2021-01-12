@@ -1,4 +1,5 @@
 // Stack
+// First in, last out (FILO)
 
 // Implementing a Stack Data Structure
 // Implementation is over the primitive Array Structural Type
