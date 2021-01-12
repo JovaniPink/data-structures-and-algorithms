@@ -16,7 +16,7 @@ function mySet() {
     return collection;
   };
   // This method will add an element to the set
-  // ES6 
+  // ES6
   this.add = function (element) {
     if (!this.has(element)) {
       collection.push(element);
@@ -47,11 +47,11 @@ function mySet() {
     var firstSet = this.values();
     var secondSet = otherSet.values();
     // .add method will not insert any duplicate elements
-    firstSet.forEach(function (e) {
-      unionSet.add(e);
+    firstSet.forEach(function (element) {
+      unionSet.add(element);
     });
-    secondSet.forEach(function (e) {
-      unionSet.add(e);
+    secondSet.forEach(function (element) {
+      unionSet.add(element);
     });
     return unionSet;
   };
@@ -59,9 +59,9 @@ function mySet() {
   this.intersection = function (otherSet) {
     var intersectionSet = new mySet();
     var firstSet = this.values();
-    firstSet.forEach(function (e) {
-      if (otherSet.has(e)) {
-        intersectionSet.add(e);
+    firstSet.forEach(function (element) {
+      if (otherSet.has(element)) {
+        intersectionSet.add(element);
       }
     });
     // The return has all the elements from both sets
@@ -71,9 +71,9 @@ function mySet() {
   this.difference = function (otherSet) {
     var differenceSet = new mySet();
     var firstSet = this.values();
-    firstSet.forEach(function (e) {
-      if (!otherSet.has(e)) {
-        differenceSet.add(e);
+    firstSet.forEach(function (element) {
+      if (!otherSet.has(element)) {
+        differenceSet.add(element);
       }
     });
     return differenceSet;
