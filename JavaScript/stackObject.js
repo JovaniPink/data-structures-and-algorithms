@@ -1,3 +1,5 @@
+// stackObject & stackClass
+
 // ES5
 var Stack = function () {
   this.size = 0;

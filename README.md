@@ -4,9 +4,28 @@
 
 ## 👨‍💻 Project Overview
 
+Data Structures and Algorithms go hand and hand!
+
 ## 🗄️ Data Structures
 
+- Stacks
+- Sets
+- Queues
+- Priority Queues
+
 ## 🎛 Algorithms
+
+- Binary Search Tree
+  - Binary Search Tree and the traversal and height
+- Hash Tables
+- Linked List
+- Trie
+- Heap
+- Graphs
+  - Adjacency List
+  - Adjacency Matrix
+  - Incidence Matrix
+  - Breadth-first Search
 
 ## 📑 Todo Checklist
 
