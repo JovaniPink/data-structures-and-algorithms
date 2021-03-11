@@ -1,12 +1,25 @@
-# Data Structures & Algorithms in JavaScript
+# Data Structures & Algorithms
 
-> Working through my knowledge in Data Structures & Algorithms while using JavaScript
+> Working through my knowledge in Data Structures & Algorithms
 
 ## 👨‍💻 Project Overview
 
 Data Structures and Algorithms go hand and hand!
 
+Languages:
 
+- C
+- JavaScript/TypeScript
+- Python
+- Elixir
+
+Resource Links:
+
+- https://www.bigocheatsheet.com/
+- https://github.com/davidshariff/computer-science
+- https://github.com/trekhleb/javascript-algorithms
+- https://github.com/pavankat/big-o-in-plain-english
+- https://github.com/jamiebuilds/itsy-bitsy-data-structures
 
 ## 🗄️ Data Structures
 
